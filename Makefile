@@ -12,6 +12,7 @@ all:
 	make -C birds all
 	make -C cooking all
 	make -C entertainment all
+	make -C family all
 	make -C games all
 	make -C gardening all
 	make -C genealogy all

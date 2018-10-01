@@ -1,7 +1,7 @@
 import page
 
 artifact = page.Artifact()
-        
+
 artifact.imageUrl = "images/IMG_4769.JPG"
 artifact.imageAltText = "IMG_4769"
 artifact.imageTitle = "IMG_4769"
@@ -23,15 +23,15 @@ simplicity and the cheerful colors were so appealing to me that I had made up my
 Etsy, Kijiji and in various galleries in Canada.</p>
 <p>Thank you for looking at my art.</p>"""
 artifact.eBaySale.materials = "oil paints, canvas"
-artifact.eBaySale.firstBidPrice = "$5.00" 
+artifact.eBaySale.firstBidPrice = "$5.00"
 artifact.eBaySale.reservePrice = "$14.99"
 artifact.eBaySale.buyItNowPrice = "$24.99"
 artifact.eBaySale.singleItemShippingPrice = "$10.00"
 artifact.eBaySale.links = [("http://www.ebay.com/itm/-/141825724279?",
                             "eBay listing starting 2015/11/11"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140963605288", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140963605288",
                             "eBay listing starting 2013/04/26"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140914980969", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140914980969",
                             "eBay listing starting 2013/02/08"),
                            ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140769908185",
                             "eBay listing starting 2012/06/08"),
@@ -61,11 +61,16 @@ artifact.etsySale.tags = "art, original painting, oil painting, canvas, landscap
 artifact.etsySale.purchasePrice = "$35.00"
 artifact.etsySale.singleItemShippingPrice = "$15.00"
 artifact.etsySale.multipleItemShippingPrice = "$10.00 USD"
-artifact.etsySale.links = [("http://www.etsy.com/listing/68850919/profusion-of-poppies-signed-original-oil", 
+artifact.etsySale.links = [("http://www.etsy.com/listing/68850919/profusion-of-poppies-signed-original-oil",
                             "Etsy listing starting 2011/02/25")]
-artifact.kijijiSale.title = ""
-artifact.kijijiSale.description = ""
-artifact.kijijiSale.askingPrice = "-"
+artifact.kijijiSale.title = "Oil Painting - Profusion of Poppies"
+artifact.kijijiSale.description = """<p>This painting was done with
+oil paints on canvas. The painting extends over the staple-free
+edges on all four sides. It is 10 inches wide by 8 inches high.
+This painting is bursting with the colors of poppies and other
+wild-flowers. The original artist is asking for $35 or your best offer.
+</p>"""
+artifact.kijijiSale.askingPrice = "$35"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

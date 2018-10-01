@@ -181,7 +181,6 @@ var menu ={
 		{url: "http://www.flickr.com/groups/ontarioruralruins", label: "Ontario Rural Ruins group"},
 		{url: "http://www.flickr.com/groups/rural_ontario", label: "Rural Ontario group"},
 		{url: "http://www.flickr.com/groups/squirrels", label: "Squirrels group"},
-		{url: "x", label: "x"},
 	],
 	psychic: [
 		{url: "main", label: "< Betty's Favourite Links"},

@@ -1,7 +1,7 @@
 import page
 
-artifact = page.Artifact()        
-        
+artifact = page.Artifact()
+
 artifact.imageUrl = "images/IMG_5083.JPG"
 artifact.imageAltText = "IMG_5083"
 artifact.imageTitle = "IMG_5083"
@@ -31,17 +31,17 @@ artifact.eBaySale.buyItNowPrice = "$24.99"
 artifact.eBaySale.singleItemShippingPrice = "$10.00"
 artifact.eBaySale.links = [("http://www.ebay.com/itm/-/141825690786?",
                             "eBay posting of 2015/11/11"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140963593592", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140963593592",
                             "eBay posting of 2013/04/26"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140914972631", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140914972631",
                             "eBay posting of 2013/02/08"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140769916646", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140769916646",
                             "eBay posting of 2012/06/08"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140741868362", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140741868362",
                             "eBay posting of 2012/04/20"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140736098136", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140736098136",
                             "eBay posting of 2012/04/06"),
-                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140649374667", 
+                           ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140649374667",
                             "eBay posting of 2011/11/25"),
                            ("http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=140639094270",
                             "eBay posting of 2011/11/11")]
@@ -52,9 +52,15 @@ artifact.etsySale.purchasePrice = "$45.00"
 artifact.etsySale.singleItemShippingPrice = "$10.00"
 artifact.etsySale.multipleItemShippingPrice = "$7.00"
 artifact.etsySale.links = []
-artifact.kijijiSale.title = ""
-artifact.kijijiSale.description = ""
-artifact.kijijiSale.askingPrice = "-"
+artifact.kijijiSale.title = "Oil painting - Gathering Hay."
+artifact.kijijiSale.description = """<p>This is an oil painting on canvas board.
+With beautiful wood frame this painting is 9&frac12; by 7&frac12; inches.
+This painting is ready to hang.
+It was painted in the primitive style because that helps
+to emphasize the beauty of simpler times.
+The original artist is asking for $35 or your best offer.</p>
+"""
+artifact.kijijiSale.askingPrice = "$35"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

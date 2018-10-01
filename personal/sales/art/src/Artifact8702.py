@@ -5,10 +5,10 @@ artifact = page.Artifact()
 artifact.imageUrl = "images/IMG_8702.JPG"
 artifact.imageAltText = "IMG_8702"
 artifact.imageTitle = "IMG_8702"
-artifact.title = "<em>TODO</em>"
-artifact.eBaySale.title = "<em>TODO</em> - Original watercolor painting for sale by artist"
+artifact.title = "Autumn Scene Along Lonely Lake - Original watercolor painting."
+artifact.eBaySale.title = "Autumn Scene Along Lonely Lake - Original watercolor painting for sale by artist"
 artifact.eBaySale.description = """<p>This is a signed original painting.  It is not a print.</p>
-<p><em>TODO</em></p>
+<p>This is a pleasant memory of mine of a remote lake in Northern Ontario in Autumn.</p>
 <p>This was painted with watercolor paints on 140 lb acid free paper board. It is 11" by 9".</p>
 <p>From a young age I have been doodling and drawing whenever I found some scrap paper or anything
 else that I could use. I had been working in watercolors and oils for more than thirty years
@@ -33,12 +33,12 @@ artifact.etsySale.purchasePrice = "-"
 artifact.etsySale.singleItemShippingPrice = "-"
 artifact.etsySale.multipleItemShippingPrice = "-"
 artifact.etsySale.links = []
-artifact.kijijiSale.title = "<em>TODO</em> - Original painting for sale by artist"
-artifact.kijijiSale.description = """<p><em>TODO</em></p>
-<p>It is 11" by 9".</p>
-<p>Painted with watercolor paints on 140 lb acid free paper.</p>
-<p>This is a signed original painting by me Betty Harmsen.  It is not a print.</p>
-<p>I am asking for $35 or your best offer.</p>
+artifact.kijijiSale.title = "Watercolour painting - Autumn Scene Along Lonely Lake."
+# 12 1/2 x 14 1/2
+artifact.kijijiSale.description = """<p>This was painted with
+watercolor paints on 140 lb acid free paper board. It is 12&frac12;" by 14&frac12;".
+This painting brings back memories of a lonely lake in Autumn.
+The original artist is asking for $35 or your best offer.</p>
 """
 artifact.kijijiSale.askingPrice = "$35.00"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"

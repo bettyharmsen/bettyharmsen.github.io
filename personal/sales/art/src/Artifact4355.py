@@ -58,9 +58,14 @@ artifact.etsySale.purchasePrice = "$45.00"
 artifact.etsySale.singleItemShippingPrice = "$10.00"
 artifact.etsySale.multipleItemShippingPrice = "$7.00"
 artifact.etsySale.links = []
-artifact.kijijiSale.title = ""
-artifact.kijijiSale.description = ""
-artifact.kijijiSale.askingPrice = "-"
+artifact.kijijiSale.title = "Oil Painting - Playing In The Snow"
+artifact.kijijiSale.description = """<p>This oil painting is on canvas
+board and is mounted in a wood frame. The dimensions, including frame,
+are 15 inches wide by 12 inches high. This painting shows an idyllic
+scene of children playing in the snow in a rustic village. The original
+artist is asking for $45 or your best offer.
+</p>"""
+artifact.kijijiSale.askingPrice = "$45"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

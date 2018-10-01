@@ -59,9 +59,14 @@ artifact.etsySale.singleItemShippingPrice = "$10.00"
 artifact.etsySale.multipleItemShippingPrice = "$7.00"
 artifact.etsySale.links = [("http://www.etsy.com/listing/63757239/poppies-in-a-field-oil-painting-on",
                             "Etsy listing starting 2010/12/06")]
-artifact.kijijiSale.title = ""
-artifact.kijijiSale.description = ""
-artifact.kijijiSale.askingPrice = "-"
+artifact.kijijiSale.title = "Oil Painting - Poppies in a Field"
+artifact.kijijiSale.description = """<p>This an oil painting on canvas.
+This painting is 10" by 8" and continues over the edges.  There are no
+staples on the visible edges. This painting depicts a group of bright red
+poppies standing in front of a golden grain field. The original artist is
+asking for $35 or your best offer.
+</p>"""
+artifact.kijijiSale.askingPrice = "$35"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

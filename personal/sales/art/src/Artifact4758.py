@@ -29,9 +29,14 @@ artifact.etsySale.purchasePrice = "-"
 artifact.etsySale.singleItemShippingPrice = "-"
 artifact.etsySale.multipleItemShippingPrice = "-"
 artifact.etsySale.links = []
-artifact.kijijiSale.title = ""
-artifact.kijijiSale.description = ""
-artifact.kijijiSale.askingPrice = "-"
+artifact.kijijiSale.title = "Watercolour painting - Decorative bottles and flower"
+# 10 x 12
+artifact.kijijiSale.description = """<p>This was painted with
+watercolor paints on 140 lb acid free paper board. It is 12" by 10".
+This is a still-life painting of decorative bottles and a flower.
+The original artist is asking for $35 or your best offer.</p>
+"""
+artifact.kijijiSale.askingPrice = "$35"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

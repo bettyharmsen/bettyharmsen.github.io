@@ -7,7 +7,6 @@ currentSales = [
     ('Artifact4514', 'images/IMG_4514.JPG', 'IMG_4514'),
     ('Artifact4758', 'images/IMG_4758.JPG', 'IMG_4758'),
     ('Artifact5083', 'images/IMG_5083.JPG', 'IMG_5083'),
-    ('Artifact8702', 'images/IMG_8702.JPG', 'IMG_8702')
 ]
 
 futureSales = [
@@ -32,6 +31,7 @@ futureSales = [
     ('Artifact8639', 'images/IMG_8639.JPG', 'IMG_8639'),
     ('Artifact8666', 'images/IMG_8666.JPG', 'IMG_8666'),
     ('Artifact8695', 'images/IMG_8695.JPG', 'IMG_8695'),
+    ('Artifact8702', 'images/IMG_8702.JPG', 'IMG_8702'),
     ('Artifact_2018-05-24_15.23.57', 'images/2018-05-24_15.23.57_cropped.jpg', '2018-05-24_15.23.57_cropped')
 ]
 

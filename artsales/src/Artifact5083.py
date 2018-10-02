@@ -58,9 +58,9 @@ With beautiful wood frame this painting is 9&frac12; by 7&frac12; inches.
 This painting is ready to hang.
 It was painted in the primitive style because that helps
 to emphasize the beauty of simpler times.
-The original artist is asking for $35 or your best offer.</p>
+The original artist is asking for $40 or your best offer.</p>
 """
-artifact.kijijiSale.askingPrice = "$35"
+artifact.kijijiSale.askingPrice = "$40"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

@@ -16,7 +16,6 @@ var menu ={
 	],
 	artsites: [
 		{url: "main", label: "< Betty's Favourite Links"},
-                {url: "artsales/index.html", label: "Betty&apos;s Art Sales"},
 		{url: "http://www.cbc.ca/artspots", label: "CBC ArtSpots"},
 		{url: "http://dailypainters.com/", label: "DailyPainters.com"},
 		{url: "http://www.ebay.com/", label: "eBay"},

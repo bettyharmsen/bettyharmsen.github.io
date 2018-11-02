@@ -3,9 +3,9 @@ import page
 artifact = page.Artifact()
         
 artifact.imageUrl = "images/IMG_4758.JPG"
-artifact.imageAltText = "IMG_4758"
-artifact.imageTitle = "IMG_4758"
-artifact.title = "IMG_4758"
+artifact.imageAltText = "Decorative bottles and flower"
+artifact.imageTitle = "Decorative bottles and flower"
+artifact.title = "Decorative bottles and flower"
 artifact.eBaySale.title = "IMG_4758"
 artifact.eBaySale.description = """<p><em>TODO</em></p>
 <p>From a young age I have been doodling and drawing whenever I found some scrap paper or anything
@@ -36,7 +36,7 @@ watercolor paints on 140 lb acid free paper board. It is 12" by 10".
 This is a still-life painting of decorative bottles and a flower.
 The original artist is asking for $35 or your best offer.</p>
 """
-artifact.kijijiSale.askingPrice = "$35"
+artifact.kijijiSale.askingPrice = "$40"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

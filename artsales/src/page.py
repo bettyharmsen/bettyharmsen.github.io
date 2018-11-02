@@ -45,7 +45,7 @@ class Renderer:
         htmlfile.write("</head>\n")
         htmlfile.write("<body>\n")
         htmlfile.write("  <header>\n")
-        htmlfile.write('    <img src="%s" alt="%s" title="%s" width="800px">\n' % (self.artifact.imageUrl,
+        htmlfile.write('    <img src="%s" alt="%s" title="%s" width="400px">\n' % (self.artifact.imageUrl,
                                                                                    self.artifact.imageAltText,
                                                                                    self.artifact.imageTitle))
         htmlfile.write("    <h1>%s</h1>\n" % self.artifact.title)

@@ -70,7 +70,7 @@ edges on all four sides. It is 10 inches wide by 8 inches high.
 This painting is bursting with the colors of poppies and other
 wild-flowers. The original artist is asking for $35 or your best offer.
 </p>"""
-artifact.kijijiSale.askingPrice = "$35"
+artifact.kijijiSale.askingPrice = "$45"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

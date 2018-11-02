@@ -65,7 +65,7 @@ are 15 inches wide by 12 inches high. This painting shows an idyllic
 scene of children playing in the snow in a rustic village. The original
 artist is asking for $45 or your best offer.
 </p>"""
-artifact.kijijiSale.askingPrice = "$45"
+artifact.kijijiSale.askingPrice = "$65"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

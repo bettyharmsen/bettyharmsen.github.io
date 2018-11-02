@@ -66,7 +66,7 @@ staples on the visible edges. This painting depicts a group of bright red
 poppies standing in front of a golden grain field. The original artist is
 asking for $35 or your best offer.
 </p>"""
-artifact.kijijiSale.askingPrice = "$35"
+artifact.kijijiSale.askingPrice = "$45"
 artifact.kijijiSale.minimumAcceptableOfferPrice = "-"
 artifact.kijijiSale.maximumAutomaticRejectPrice = "-"
 artifact.kijijiSale.singleItemShippingPrice = "-"

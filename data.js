@@ -130,7 +130,7 @@ var menu ={
 		{url: "http://www.reddit.com/r/worldnews/", label: "Reddit - World News"},
 		{url: "http://www.theweeklynews.ca/elgincounty/", label: "St. Thomas/Elgin Weekly News"},
 		{url: "http://www.stthomastoday.ca", label: "St. Thomas Today News"},
-		{url: "http://www.lfpress.com/", label: "The London Free Press"},
+		{url: "http://lfpress.com/", label: "The London Free Press"},
 		{url: "http://www.pbs.org/newshour/", label: "The Online NewsHour"},
 		{url: "http://thestthomasblog.com/", label: "The St. Thomas Blog"},
 		{url: "http://www.stthomastimesjournal.com/", label: "The St. Thomas Times-Journal"},
